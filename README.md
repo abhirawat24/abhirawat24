@@ -35,8 +35,6 @@ I'm a web developer from India focused on building clean, functional front-end a
 </tr>
 <tr>
 <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="mongodb" /><br />MongoDB</td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
